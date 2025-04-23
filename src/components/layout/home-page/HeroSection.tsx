@@ -21,7 +21,7 @@ const HeroSection = () => {
                 <Link href="/browse">Find WiFi</Link>
               </Button>
               <Button variant="outline" className="bg-white text-zaanet-purple border-zaanet-purple hover:bg-zaanet-purple hover:text-white px-8 py-6">
-                <Link href="/host">Become a Host</Link>
+                <Link href="/become-host">Become a Host</Link>
               </Button>
             </div>
           </div>

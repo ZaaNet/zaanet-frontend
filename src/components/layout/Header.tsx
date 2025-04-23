@@ -17,8 +17,8 @@ const Header: React.FC = () => {
           <Link href="/browse" className="text-gray-600 hover:text-zaanet-purple transition-colors">
             Browse Networks
           </Link>
-          <Link href="/host" className="text-gray-600 hover:text-zaanet-purple transition-colors">
-            Become a Host
+          <Link href="/host-network" className="text-gray-600 hover:text-zaanet-purple transition-colors">
+            Host a Network
           </Link>
           <Link href="/litepaper" className="text-gray-600 hover:text-zaanet-purple transition-colors">
             Litepaper
